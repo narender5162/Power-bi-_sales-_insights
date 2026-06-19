@@ -151,7 +151,7 @@ High-value customers can be monitored closely to strengthen retention and accoun
 Sales quantity analysis helps align inventory allocation with regional demand patterns.
 
 
-## Dashboard Snapshot
+## Dashboard Snapshot ; (https://github.com/narender5162/Power-bi-_sales-_insights/blob/main/dashboard-overview.png.png)
 
 
 
